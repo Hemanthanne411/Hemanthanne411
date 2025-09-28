@@ -11,7 +11,7 @@ A dedicated Master's Student focusing on reproducible and scalable Machine Learn
 </p>
 
 <h5 align="center">
-  <a href="https://linkedin.com/in/HEMANTH-KUMAR" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/hemanth-kumar-b009b5237/" title="LinkedIn Profile">
     <img width="22" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"> LinkedIn
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -19,7 +19,7 @@ A dedicated Master's Student focusing on reproducible and scalable Machine Learn
     <img width="22" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"> Instagram
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/yourusername" title="GitHub Profile">
+  <a href="https://github.com/Hemanthanne411" title="GitHub Profile">
     <img width="22" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> GitHub
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
@@ -50,7 +50,7 @@ A dedicated Master's Student focusing on reproducible and scalable Machine Learn
 <h2 align="left">📂 Notable Work</h2>
 
 > 🚗 **End-to-End MLOps — Vehicle Insurance Engagement Prediction**  
-> <a href="https://github.com/yourusername/vehicle-insurance-mlops"><kbd> <br> Code <br> </kbd></a>  
+> <a href="https://github.com/Hemanthanne411/MLOps-Vehicle-Insurance-Engagement"><kbd> <br> Code <br> </kbd></a>  
 >
 > Engineered a **full MLOps pipeline** to predict vehicle insurance engagement, automating the lifecycle from **data ingestion → model training → deployment**. Implemented **CI/CD** via GitHub Actions, Dockerized the app, and deployed on **AWS EC2**. Managed data with **MongoDB Atlas** and served predictions with **Flask**.  
 > `MLOps`, `CI/CD`, `Docker`, `AWS`, `Flask`, `MongoDB`
@@ -58,7 +58,7 @@ A dedicated Master's Student focusing on reproducible and scalable Machine Learn
 ---
 
 > 🔢 **Neural Network From Scratch**  
-> <a href="https://github.com/yourusername/neural-net-from-scratch"><kbd> <br> Code <br> </kbd></a>  
+> <a href="https://github.com/Hemanthanne411/Neural-Network-Scratch"><kbd> <br> Code <br> </kbd></a>  
 >
 > Built a fully connected Neural Network using **Python + NumPy** implementing **forward/backpropagation** and **gradient descent**. Designed for **binary & multi-class tasks** with customizable activations (ReLU, Softmax) and cost functions. Tracked experiments using **MLflow + DagsHub**, achieving **93% test accuracy** on MNIST digit recognition.  
 > `Deep Learning`, `NumPy`, `MLflow`, `MLOps`
@@ -66,7 +66,7 @@ A dedicated Master's Student focusing on reproducible and scalable Machine Learn
 ---
 
 > 📧 **Spam Classification — End-to-End ML Pipeline**  
-> <a href="https://github.com/yourusername/spam-classifier"><kbd> <br> Code <br> </kbd></a>  
+> <a href="https://github.com/Hemanthanne411/Spam-Classification-MLOps"><kbd> <br> Code <br> </kbd></a>  
 >
 > Developed a reproducible **text classification pipeline**, comparing four models and finalizing **Random Forest Classifier**. Implemented **DVC + DVCLive** for data and model versioning. Engineered features using **TF-IDF + Porter Stemming**, achieving **99.15% precision**.  
 > `NLP`, `MLOps`, `DVC`, `DVCLive`
@@ -74,7 +74,7 @@ A dedicated Master's Student focusing on reproducible and scalable Machine Learn
 ---
 
 > 🎥 **Specialized YouTube Video Recommendation Engine**  
-> <a href="https://github.com/yourusername/youtube-recommendation"><kbd> <br> Code <br> </kbd></a>  
+> <a href="https://github.com/Hemanthanne411/MJPRO"><kbd> <br> Code <br> </kbd></a>  
 >
 > Created a **hybrid sentiment-aware recommendation system** for educational videos. Combined **rule-based (VADER)** and **fine-tuned DistilBERT** Transformer models to rank videos based on contextual sentiment from viewer comments.  
 > `NLP`, `Transformers`, `Sentiment Analysis`, `Recommendation Systems`
@@ -82,7 +82,7 @@ A dedicated Master's Student focusing on reproducible and scalable Machine Learn
 ---
 
 <p align="center">
-  ...and many more 🗂️ <a href="https://github.com/yourusername?tab=repositories">explore my projects here</a>.
+  ...and many more 🗂️ <a href="https://github.com/Hemanthanne411?tab=repositories">explore my projects here</a>.
 </p>
 
 ---
@@ -96,5 +96,5 @@ A dedicated Master's Student focusing on reproducible and scalable Machine Learn
 </p>
 
 <p align="center">
-  📖 I'm a continuos Machine Learner😁
+  📖 I'm a continuos Machine Learner🤫
 </p>
