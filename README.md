@@ -11,7 +11,7 @@ A dedicated Master's Student focusing on reproducible and scalable Machine Learn
 </p>
 
 <h5 align="center">
-  <a href="www.linkedin.com/in/hemanth-anne-b009b5237" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/hemanth-anne-b009b5237" title="LinkedIn Profile">
     <img width="22" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"> LinkedIn
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
